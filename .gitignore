@@ -6,7 +6,6 @@
 *.mo
 *~
 *.swp
-dmoj/local_settings.py
 resources/ace-dmoj.css
 resources/dark
 resources/featherlight.css
